@@ -1,8 +1,13 @@
 # Naming Convention
 
-## Camel Case <br>
+## General Rule<br>
 Layer names should be organized and in camel case to keep file structures readible for maintainers <br>
 **Example:** `camelCase`
+
+## Layer Names <br>
+Layer naming convection should be typical camel case convention
+<br>
+**Example:** `projectName`
 
 ## File Names <br>
 File naming convention is ordered as `projectName` + `underscore` + `startingFrame` + `underscore` + `endingFrame`
