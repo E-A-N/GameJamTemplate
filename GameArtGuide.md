@@ -20,3 +20,5 @@ File naming convention is ordered as `projectName` + `underscore` + `startingFra
 
 <br>
 **Note:** Files should be no more than 60 frames long
+
+***ADD SPACING CHART EXPLANATION AND GRAPHIC HERE***
