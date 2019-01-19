@@ -37,3 +37,6 @@ File naming convention is ordered as `projectName` + `underscore` + `startingFra
    * Is there a template?
        * File Template function as instruction manuals
    * Does this game have a unique protocol for creating game art?
+   
+  <br><br>
+  
