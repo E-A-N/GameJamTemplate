@@ -5,5 +5,6 @@ Layer names should be organized and in camel case to keep file structures readib
 **Example:** `camelCase`
 
 ## File Names <br>
-File naming convention is ordered as `projectName` `underscore` `startingFrame` `underscore` `endingFrame`
+File naming convention is ordered as `projectName` + `underscore` + `startingFrame` + `underscore` + `endingFrame`
+<br>
 **Example:** `projectName_0_25`
