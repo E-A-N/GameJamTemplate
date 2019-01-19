@@ -21,4 +21,20 @@ File naming convention is ordered as `projectName` + `underscore` + `startingFra
 <br>
 **Note:** Files should be no more than 60 frames long
 
-***ADD SPACING CHART EXPLANATION AND GRAPHIC HERE***
+***ADD TIMING/SPACING CHART EXPLANATION AND GRAPHIC HERE***
+
+
+<br><br>
+# Checklist for starting new game art
+
+   * Is there a spec sheet?
+      * Game Design Document
+      * Size and resolution
+   * Is the game art animated or still?
+   * Are there are any visual references?
+       * Charater Models
+       * Design Inspirations
+   
+   * Is there a design template?
+   * Are there file templates?
+   * Does this game have a unique protocol for creating game art?
