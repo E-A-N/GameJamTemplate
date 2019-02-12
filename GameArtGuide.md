@@ -16,7 +16,7 @@ File naming convention is ordered as `projectName` + `underscore` + `startingFra
 <br>
 **Animation Example:** `projectName_0_25`
 <br>
-**Multifile Animation Example:** `charWalk1_0_60` `charWalk2_61_120`
+**Multifile Animation Example:** `charWalk1_0_60` `charWalk1_61_120`
 
 <br>
 **Note:** Files should be no more than 60 frames long
